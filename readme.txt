@@ -7,3 +7,5 @@ Tinc 3 classes
 · Client (usuari que es connecta)
 · Server
 · Peticio (s'encarrega de gestionar la comunicació entre el Server i el Client)
+
+video en yt: https://youtu.be/dvF8ivD49-4 
