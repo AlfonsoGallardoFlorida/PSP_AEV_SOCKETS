@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"es.florida.avaluableSocket","c":"Server","l":"llistaPeticions"},{"p":"es.florida.avaluableSocket","c":"Server","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"es.florida.avaluableSocket","c":"Server","l":"Server()","u":"%3Cinit%3E()"}];updateSearchResults();

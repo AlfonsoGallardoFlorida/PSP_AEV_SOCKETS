@@ -1,0 +1,31 @@
+PROVES ACTIVITAT EVALUABLE SOCKETS PSP
+--------------------------------------
+
+- INICIS DE SESSIÓ
+	· Usuari buit
+	· Contrasenya buida
+	· Usuari i contrasenya buida
+	· Iniciar sessio "user1"
+	· Iniciar sessio "user1" per 2a vegada 
+
+- "?"
+	· "?" quan n'hi ha 1 usuari connectat
+	· (Iniciar sessio en "user2")
+	· connectar usuari i fer "?"
+
+- "@"
+	· "@" buit
+	· "@" usuari desconectat
+	· "@" usuari connectat sense missatge
+	· "@" usuari + missatge
+
+- missatge
+	· missatge buit
+	· missatge bé
+
+- comprobacions finals
+	· iniciar sessio "user3"
+	· fer "?"
+	· desconnectar user3
+	· fer "?"
+	· exit 3 usuaris
